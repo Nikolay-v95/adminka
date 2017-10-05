@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "1.x",
+    "consolidate": "0.x",
+    "cookie-parser": "^1.4.3",
+    "express": "4.x",
+    "express-jwt": "^5.3.0",
+    "express-session": "^1.15.5",
+    "handlebars": "2.x",
+    "jsonwebtoken": "^7.4.2",
+    "mysql": "^2.14.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "request": "*",
+    "sqlstring": "^2.2.0",
+    "url": "*"
+  }
+}
